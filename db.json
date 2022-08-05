@@ -1,0 +1,22 @@
+{
+    "banners": [
+      {
+        "id": 1,
+        "title": "First slide",
+        "subtitle": "Nunc volutpat lacus eu enim imperdiet aliquam.",
+        "imageURL": "https://www.w3schools.com/howto/img_nature_wide.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Second slide",
+        "subtitle": "Vivamus porttitor odio a leo facilisis sodales.",
+        "imageURL": "https://www.w3schools.com/howto/img_snow_wide.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Third slide",
+        "subtitle": "Donec nisi sem, aliquet vitae magna eu, efficitur.",
+        "imageURL": "https://www.w3schools.com/howto/img_lights_wide.jpg"
+      }
+    ]
+  }
