@@ -4,19 +4,19 @@
         "id": 1,
         "title": "First slide",
         "subtitle": "Nunc volutpat lacus eu enim imperdiet aliquam.",
-        "imageURL": "https://www.w3schools.com/howto/img_nature_wide.jpg"
+        "imageURL": "https://images.pexels.com/photos/6664249/pexels-photo-6664249.jpeg?h=400&w=1600&fit=crop"
       },
       {
         "id": 2,
         "title": "Second slide",
         "subtitle": "Vivamus porttitor odio a leo facilisis sodales.",
-        "imageURL": "https://www.w3schools.com/howto/img_snow_wide.jpg"
+        "imageURL": "https://images.pexels.com/photos/6664128/pexels-photo-6664128.jpeg?h=400&w=1600&fit=crop"
       },
       {
         "id": 3,
         "title": "Third slide",
         "subtitle": "Donec nisi sem, aliquet vitae magna eu, efficitur.",
-        "imageURL": "https://www.w3schools.com/howto/img_lights_wide.jpg"
+        "imageURL": "https://images.pexels.com/photos/6664196/pexels-photo-6664196.jpeg?h=400&w=1600&fit=crop"
       }
     ]
   }
